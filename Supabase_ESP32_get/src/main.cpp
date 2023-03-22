@@ -1,3 +1,10 @@
+/**
+ * \file Supabase_ESP32_post main.cpp
+ * \brief Recibir un mensaje desde Supabase para controlar un LED mediante la biblioteca HTTPClient
+ * \author Joseph Santiago Portilla. Ing. Electrónico - @JoePortilla
+ */
+
+// BIBLIOTECAS
 #include <Arduino.h>
 #include <WiFi.h>
 #include <HTTPClient.h>
